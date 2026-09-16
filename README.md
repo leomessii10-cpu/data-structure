@@ -1,0 +1,1 @@
+I will be learning about data structure and primary focus will be on solving problems , I will also be focusing on learning the complete idea , philosiphy and implementation of the same . 
